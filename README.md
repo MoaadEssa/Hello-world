@@ -1,3 +1,3 @@
 # Hello-world
 
-test test 
+std::cout << "hellow -world" << std::endl;
